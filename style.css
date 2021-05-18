@@ -1,0 +1,27 @@
+body{
+background-color: yellow;}
+#map iframe
+{
+    width: 50%;
+    float: left;
+    padding-top: 5px; 
+}
+#marqueeStyle
+{
+   width: 100%;
+    direction: right;
+    height: 100px;
+    color: mediumblue;
+    font-size: 125%;
+}
+.travel_maindiv
+img{
+    width: 100%;
+    height: 300px;
+}
+.travel_maindiv{
+    float: left;
+    width: 33.33%;
+    padding: 5%;
+    border: 1px solid #c7c7c7;
+}
